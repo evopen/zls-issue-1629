@@ -5,7 +5,7 @@
 
     .dependencies = .{
         .mylib = .{
-            .path = "../../lib/mylib",
+            .path = "../mylib",
         },
     },
 
